@@ -1,12 +1,64 @@
-#logo1{
-    width: 10%;
-    padding: 0px;
-    margin-left: 0px;
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: rgba(189, 29, 120, 0.15); 
+}
+
+nav{
+    align-items:center;
+    align-content: center;
+    align-self: center;
+  
+}
+
+nav a{
+    text-decoration: none;
+    padding: 1.25em;
+    font-family: "Notable";
+    font-size: 1.875em;
+    font-weight: 50;
+    color: rgb(189, 29, 120);
+    
     
 }
 
-#logo2{
-    width:50%;
+nav a:hover{
+    color: rgb(94, 81, 162);
+}
+
+body{
+    background-color: rgba(245, 182, 209, 0.15);
+    font-family: "Montserrat";
+    font-size: 1em;
+    font-weight: 400;
+}
+
+h2{
+    font-family: "Notable";
+    font-size: 1.875em;
+    font-weight: 50;
+    color: rgb(246, 199, 0);
+}
+
+#logoOne{
+    width: 13%;
+    padding: 0em;
+    margin-left: 0em;
+    
+}
+
+#logoTwo{
+    width: 50%;
+    position: relative;
+    align-self: end;  
     
     
 }
