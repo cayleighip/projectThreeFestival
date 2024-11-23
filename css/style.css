@@ -35,7 +35,7 @@ nav a:hover{
 }
 
 body{
-    background-color: rgba(245, 182, 209, 0.15);
+    background-color: rgba(245, 182, 209, 0.2);
     font-family: "Montserrat";
     font-size: 1em;
     font-weight: 400;
@@ -57,8 +57,9 @@ h2{
 
 #logoTwo{
     width: 50%;
-    position: relative;
-    align-self: end;  
+    margin-left: 20%;
+    margin-right: auto;
+    display: block;
     
     
 }
