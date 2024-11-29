@@ -33,3 +33,39 @@ nav a{
 nav a:hover{
     color: rgb(94, 81, 162);
 }
+
+body{
+    background-color: rgba(245, 182, 209, 0.2);
+    font-family: "Montserrat";
+    font-size: 1em;
+    font-weight: 400;
+}
+
+h2{
+    font-family: "Notable";
+    font-size: 1.875em;
+    font-weight: 50;
+    color: rgb(246, 199, 0);
+    text-align: center;
+    padding-bottom: 5%;
+}
+
+#logoOne{
+    width: 13%;
+    padding: 0em;
+    margin-left: 0em;
+    
+}
+
+#logoTwo{
+    width: 50%;
+    margin-left: 20%;
+    margin-right: auto;
+    display: block;
+    
+    
+}
+
+.imgg{
+    width: 25%;
+}
