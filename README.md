@@ -17,6 +17,15 @@ https://www.figma.com/design/418MZ6G3bBreQNkUdz7NO4/Cayleigh-Ip---DES-228-Wirefr
 ### Brand Guides
 https://drive.google.com/drive/folders/1VBufgv-mwDhxfNDxmncywQmNLuwBrPg1?usp=drive_link
 
+### Asset Mockups
+Original Artwork
+https://docs.google.com/document/d/11rx56xHn447odCWb3jmVUMKmd-pK1OuCdlmtDpElxkE/edit?usp=sharing
+
+Mockup Artwork
+https://docs.google.com/document/d/1TgeX4IULLKwKhbT6QplIlYybHci8la33CE3XJNO-ts8/edit?usp=sharing
+
+
+
 
 # Acknowledgements 
 - Planned Parenthood Action Fund 
