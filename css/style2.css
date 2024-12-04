@@ -48,6 +48,8 @@ h1{
     font-size: 3em;
     margin: 3em;
     text-align: center;
+    color: rgb(246, 199, 0);
+
 }
 
 h2{
@@ -102,7 +104,8 @@ section{
 
 
 .two{
-    display: grid;
+    display: flex;
+    flex-direction: column;
     align-items: center;
     grid-column-start: 3;
 }
@@ -143,12 +146,30 @@ section{
 
 .seven{
     grid-row-start: 4;
+    background-color: rgb(189, 29, 120);
 
 }
 
 #seven{
     grid-column: 1/4;
     grid-row: 4;
+}
+
+.partner{
+    color: white;
+    margin: 0;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 2%;
+    text-align: left;
+
+}
+
+.partner2{
+    margin: 0;
+    padding-left: 2%;
+    padding-bottom: 5%;
+    color: white;
 }
 
 
