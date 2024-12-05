@@ -45,8 +45,8 @@ h1{
     font-family: "Notable";
     font-size: 1em;
     font-weight: 400;
-    font-size: 3em;
-    margin: 3em;
+    font-size: 5em;
+    margin: 1em;
     text-align: center;
     color: rgb(246, 199, 0);
 
@@ -94,21 +94,22 @@ section{
     display:flex;
     flex-direction: row;
     background-color: rgb(189, 29, 120);
-    margin-bottom: 10%;
+    /* margin-bottom: 10%; */
 
 }
 #container2{
     display:flex;
     flex-direction: row;
     background-color: rgb(246, 199, 0);
-    margin-bottom: 10%;
+    /* margin-bottom: 10%; */
+    
 
 }
 .container3{
     display:flex;
     flex-direction: row;
     background-color: rgb(94, 81, 162);
-    margin-bottom: 10%;
+    /* margin-bottom: 10%; */
 
 }
 
@@ -118,14 +119,13 @@ section{
 
 #day1, #day2, #day3{
     color: white;
-    font-size: 3em;
+    font-size: 4em;
     font-weight: 50;
     text-align: left;
     padding-top: 4%;
     padding-bottom: 0;
-    
-
 }
+
 
 .pp, .music{
     height: 50em;
@@ -143,7 +143,7 @@ section{
 .text{
     flex-direction: column;
     font-family: "Montserrat";
-    
+   
 
 }
 
@@ -151,7 +151,7 @@ section{
     font-weight: bold;
     font-size: 2em;
     padding-top: 0.6em;
-    padding-bottom: 0.8em;
+    padding-bottom: 0.3em;
 
 }
 
@@ -179,10 +179,9 @@ section{
 .partner{
     color: white;
     margin: 0;
-    padding-top: 5%;
-    padding-bottom: 5%;
-    padding-left: 2%;
+    padding: 2%;
     text-align: left;
+    font-size: 2.5em;
 
 }
 
