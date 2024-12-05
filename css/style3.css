@@ -21,7 +21,7 @@ nav{
 
 nav a{
     text-decoration: none;
-    padding: 1.25em;
+    padding: 1em;
     font-family: "Notable";
     font-size: 1.875em;
     font-weight: 50;
@@ -61,7 +61,7 @@ h1{
 }
 
 #logoOne{
-    width: 13%;
+    width: 9%;
     padding: 0em;
     margin-left: 0em;
     
@@ -97,8 +97,8 @@ h1{
 p{
     background-color: rgb(189, 29, 120);
     border-radius: 1.5em;
-    width: 55%;
-    height: 35%;
+    width: 35%;
+    height: 25%;
     text-align: center;
     align-items: center;
     align-content: center;
