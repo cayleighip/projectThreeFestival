@@ -51,15 +51,15 @@ h2{
 }
 
 #container{
-    background-color: rgba(189, 29, 120, 0.15);
-    width: 65%;
+    background-color: rgba(189, 29, 120, 0.5);
+    width: 68%;
     border-radius: 1.5em;
     justify-self: center;
 }
 
 #VCF{
     font-family: "Notable";
-    font-size: 3em;
+    font-size: 2.5em;
     font-weight: 50;
     color: rgb(189, 29, 120);
     text-align: center;
