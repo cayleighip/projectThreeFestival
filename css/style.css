@@ -134,7 +134,17 @@ nav a:hover{
     img{
       width: 20%;
       height: 40%;
-      justify-self: center;
+    }
+    
+    #imgs{
+        margin-left: 5%;
+        margin-bottom: 5%;
+
+    }
+
+    #parade{
+        margin-left: 5%;
+        
     }
 
     #container{
@@ -150,7 +160,8 @@ nav a:hover{
 
     .homeSection{
         display: flex;
-        flex-direction: row;
+        flex-direction: column;
+        font-size: 100%;
 
     }
     
