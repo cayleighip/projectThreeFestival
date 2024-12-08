@@ -107,23 +107,47 @@ p{
 
 }
 
+p:hover{
+    background-color: rgb(94, 81, 162);
+}
+
 .button2{
+    background-color:rgb(189, 29, 120);
+}
+
+.button2:hover{
     background-color: rgb(246, 199, 0);
 }
 
 .button3{
+    background-color: rgb(189, 29, 120);
+}
+
+.button3:hover{
     background-color: rgb(94, 81, 162);
 }
 
 .button4{
-    background-color:rgb(94, 81, 162);
+    background-color:rgb(189, 29, 120);
+}
+
+.button4:hover{
+    background-color: rgb(246, 199, 0);
 }
 
 .button5{
     background-color: rgb(189, 29, 120);
 }
 
+.button5:hover{
+    background-color:rgb(94, 81, 162);
+}
+
 .button6{
+    background-color: rgb(189, 29, 120);
+}
+
+.button6:hover{
     background-color: rgb(246, 199, 0);
 }
 
