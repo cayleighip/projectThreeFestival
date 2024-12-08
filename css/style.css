@@ -134,6 +134,7 @@ nav a:hover{
     img{
       width: 20%;
       height: 40%;
+      justify-self: center;
     }
 
     #container{
@@ -144,7 +145,12 @@ nav a:hover{
 
     .grid-container{
         display: flex;
-        flex: row;
+        flex-direction: column;
+    }
+
+    .homeSection{
+        display: flex;
+        flex-direction: row;
 
     }
     
