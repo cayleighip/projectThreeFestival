@@ -128,9 +128,8 @@ nav a:hover{
 /* -------- media queries --------- */
 @media  screen and (max-width: 600px) {
     *{
-      font-size: 75%;
+      font-size: 80%;
     }
-  
   
     #mediaImages img{
       width: 100%;
@@ -138,6 +137,14 @@ nav a:hover{
 
     #container{
         width: 75%;
+        font-size: 75%;
+        margin: 2%;
+    }
+
+    #body{
+        display: flex;
+        flex: row;
+
     }
     
   }
