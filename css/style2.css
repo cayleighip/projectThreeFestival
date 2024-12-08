@@ -147,6 +147,7 @@ section{
 .text{
     flex-direction: column;
     font-family: "Montserrat";
+    width: 43%;
    
 
 }
