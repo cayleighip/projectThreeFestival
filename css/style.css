@@ -37,6 +37,7 @@ body{
     font-family: "Montserrat";
     font-size: 1em;
     font-weight: 400;
+    
 }
 
 h2{
@@ -149,8 +150,7 @@ nav a:hover{
 
     #container{
         width: 75%;
-        font-size: 45%;
-        justify-content: space-around;
+        margin: auto;
     }
 
     .grid-container{
