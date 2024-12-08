@@ -131,8 +131,8 @@ nav a:hover{
       font-size: 80%;
     }
   
-    #mediaImages img{
-      width: 100%;
+    #img{
+      width: 20%;
     }
 
     #container{
@@ -141,9 +141,9 @@ nav a:hover{
         margin: 2%;
     }
 
-    #body{
+    .grid-container{
         display: flex;
-        flex: row;
+        flex: column;
 
     }
     
