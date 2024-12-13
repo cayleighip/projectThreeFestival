@@ -49,11 +49,27 @@ h2{
     padding-bottom: 5%;
 }
 
+.heroimage{
+    position: relative;
+    margin-bottom: 35%;
+    
+}
+
+#protest2{
+    width: 100%;
+    height: fit-content;
+    position: absolute;
+    z-index: 1;
+}
+
 #container{
-    background-color: rgba(189, 29, 120, 0.5);
+    background-color: rgba(246, 199, 0, 0.9);
     width: 88%;
     border-radius: 1.5em;
     justify-self: center;
+    position: relative;
+    z-index: 99;
+    
 }
 
 #VCF{
@@ -86,15 +102,20 @@ h2{
     width: 35%;
     margin-left: 30%;
     margin-right: auto;
-    display: block;
+    position: absolute;
+    z-index: 99;
     
     
+}
+
+.main{
+    margin-top: 30%;
 }
 
 .grid-container{
     display: grid;
     grid-template-columns: 50% 50%;
-    margin-bottom: 10%;
+    margin-bottom: 5%;
    
    
   
@@ -149,11 +170,16 @@ nav a:hover{
         margin-bottom: 5%;
 
     }
+
     
     #logoOne{
         width: 20%;
     }
 
+    #logoTwo{
+        width: 35%;
+        height: 25%;
+    }
 
     #parade{
         margin-left: 5%;
@@ -163,7 +189,7 @@ nav a:hover{
     #container{
         width: 75%;
         margin: auto;
-        font-size: 0.65em;
+        font-size: 0.45em;
     }
 
     .grid-container{
