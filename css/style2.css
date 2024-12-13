@@ -193,6 +193,30 @@ section{
 
 #partner3{
     margin-top: 1em;
+    display: flex;
+    flex-direction: column;
+}
+
+#vendor{
+    width: 8em;
+    justify-self: center;
+    
+}
+
+#vendor2{
+    width: 11em;
+    justify-self: center;
+}
+
+
+#ppaf{
+    width: 13em;
+}
+
+
+#ccp{
+    margin-top: 1em;
+    width: 15em;
 }
 
 ul:visited{
