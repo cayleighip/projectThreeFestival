@@ -5,17 +5,21 @@
 }
 
 header{
+    position: sticky;
+    top: 0;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-between;
-    background-color: rgba(189, 29, 120, 0.15); 
+    background-color: rgba(245, 182, 209); 
+    z-index: 10000;
 }
 
 nav{
     align-items:center;
     align-content: center;
     align-self: center;
+    
   
 }
 
