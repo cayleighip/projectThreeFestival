@@ -27,7 +27,7 @@ nav a{
     text-decoration: none;
     padding: 1em;
     font-family: "Notable";
-    font-size: 1.575em;
+    font-size: 1.875em;
     font-weight: 50;
     color: rgb(189, 29, 120);
     
@@ -160,7 +160,7 @@ nav a:hover{
    */
 
    nav{
-    font-size: 80%;
+    font-size: 60%;
 
    }
 
