@@ -26,7 +26,26 @@ https://docs.google.com/document/d/1TgeX4IULLKwKhbT6QplIlYybHci8la33CE3XJNO-ts8/
 
 
 
-
 # Acknowledgements 
 - Planned Parenthood Action Fund 
 https://www.plannedparenthoodaction.org/
+
+- The Center for Cultural Power
+https://www.culturalpower.org/stories/art-abortion-storytelling/ 
+
+- ACLU Texas / Texas Abortion Advocacy Network
+https://www.aclutx.org/en/texas-abortion-advocacy-network
+
+- Texas Equal Access Fund
+https://www.teafund.org/
+
+- We Testify
+https://wetestify.org/
+
+### General Resource Used
+- https://www.w3schools.com/
+
+### Other Resources Used for Grid
+- https://css-tricks.com/snippets/css/complete-guide-grid/
+
+- https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout

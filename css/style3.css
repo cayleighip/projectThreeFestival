@@ -88,6 +88,9 @@ h1{
     width: 50%;
 }
 
+/* https://www.w3schools.com/css/css_grid.asp
+https://css-tricks.com/snippets/css/complete-guide-grid/
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout */
 .container{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;

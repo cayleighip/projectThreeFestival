@@ -98,6 +98,11 @@ section{
     padding-left: 3%;
 }
 
+/* https://www.w3schools.com/cssref/css3_pr_flex.php
+https://css-tricks.com/snippets/css/complete-guide-grid/
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout
+
+*/
 .container1{
     display:flex;
     flex-direction: row;
